@@ -9,5 +9,5 @@ Web-based Disaster Resource Allocation System using React and Supabase
 
 ## Team
 - Scrum Lead: Nandana S
-- Members: Krishna P,Suhana S R , Niranjan s
+- Members: Krishna P,Suhana S R , Niranjan S
 
